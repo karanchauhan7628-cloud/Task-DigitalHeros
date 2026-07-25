@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://routeflow.example/sitemap.xml
+Sitemap: https://karanchauhan7628-cloud.github.io/Task-DigitalHeros/sitemap.xml
